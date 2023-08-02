@@ -21,15 +21,15 @@ A real-time chat application. This project is a simple chat app that allows user
 ### Backend Setup
 
 1. Clone the repository and navigate to the backend folder:
-   - Install the dependencies: ``` $ npm install ```
-   - Start the backend server: npm start.
+   - Install the dependencies: ``` npm install ```
+   - Start the backend server: ``` npm start ```
      
 ### Frontend Setup
 1.  Navigate to the frontend folder:
-   - cd ../client
+   -  ``` cd ../client ```
 2. Install the dependencies:
-    - npm install
+    -  ``` npm install ```
 3. Start the frontend development server:
-    - npm start
+    - ``` npm start ```
 
 4. Open your browser and go to http://localhost:3000 to access the Chat application.
