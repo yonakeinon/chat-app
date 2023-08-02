@@ -21,8 +21,8 @@ A real-time chat application. This project is a simple chat app that allows user
 ### Backend Setup
 
 1. Clone the repository and navigate to the backend folder:
-   - Install the dependencies: npm install.
-   - Start the backend server: npm start.
+   - Install the dependencies: $ npm install.
+   - Start the backend server: $ npm start.
      
 ### Frontend Setup
 1.  Navigate to the frontend folder:
